@@ -1,0 +1,14 @@
+
+
+=======Unit in CSS========
+
+pixels(px)
+
+1 inch = 96px
+
+============Text Properties========
+
+line-height: 20px
+text-transform (uppercase/lowercase/capitalize/none)
+
+==========CSS Box Model=======

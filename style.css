@@ -1,0 +1,14 @@
+
+
+.text{
+    line-height: 20px;
+    /* line-height: normal; */
+
+    /* text-transform: lowercase; */
+    /* text-transform: none; */
+}
+
+.div1{
+    background-color: aqua;
+    height: 400px;
+}
